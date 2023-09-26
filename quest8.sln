@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quest8", "guest8\quest8.csproj", "{2E3D57B5-7310-4ECF-B667-F4B88A8546CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quest8.4", "quest8.4\quest8.4.csproj", "{DCB6845E-92C3-4238-A188-FD982DBC65CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E3D57B5-7310-4ECF-B667-F4B88A8546CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3D57B5-7310-4ECF-B667-F4B88A8546CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3D57B5-7310-4ECF-B667-F4B88A8546CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3D57B5-7310-4ECF-B667-F4B88A8546CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB6845E-92C3-4238-A188-FD982DBC65CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB6845E-92C3-4238-A188-FD982DBC65CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB6845E-92C3-4238-A188-FD982DBC65CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB6845E-92C3-4238-A188-FD982DBC65CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0A04B5-94A0-4D84-8BD0-8EF2B5597CAD}
+	EndGlobalSection
+EndGlobal
