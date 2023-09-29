@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace guest8
+namespace quest8
 {
     internal class Program
     {
